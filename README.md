@@ -23,4 +23,4 @@ Code: The code contains 3 files:
     PredictionModel.py: This model will provide the predicted performance of the player that is selected from the recommended players list.
     ConnectionModel.py: This model will establish connection with the files and read data from the files.
 
-The application was a cloud based application using pyspark to connect to Apache Hive database which consisted of all the data and hosted on Google Cloud Platform but due to resource exhaustion, the code is removed and now the models run locally on the local dataset. 
+The application was a cloud based application using pyspark to connect to Apache Hive database which consisted of all the data and hosted on Google Cloud Platform but due to resource exhaustion, so the code is commented but is present in the connection file and now the models run locally on the local dataset. 
